@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Bhakti Pol** – Welcome to My Portfolio!
 
-[![Visit Website](https://img.shields.io/badge/🌐%20Live%20Portfolio-bhaktipol99.github.io-blueviolet?style=for-the-badge&logo=githubpages)](Bhaktipol.github.io)
+[![Visit Website](https://img.shields.io/badge/🌐%20Live%20Portfolio-bhaktipol99.github.io-blueviolet?style=for-the-badge&logo=githubpages)](https://github.com/Bhaktipol99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhakti_Pol-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhakti-pol/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Java_4★-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/polbhakti6)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active_Solver-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Bhakti_Pol/)
